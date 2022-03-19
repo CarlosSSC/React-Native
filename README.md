@@ -20,9 +20,9 @@ Application software with the MVC pattern.
 ## Screenshots
 
 <div>
-<img src="https://s10.gifyu.com/images/Screenshot_1647641218.png">
-<img src="https://s10.gifyu.com/images/Screenshot_1647642625.png">
-<img src="https://s10.gifyu.com/images/Screenshot_1647642667.png">
-<img src="https://s10.gifyu.com/images/Screenshot_1647642679.png">
+<img src='https://s10.gifyu.com/images/Screenshot_1647641218.png' width="245">
+<img src='https://s10.gifyu.com/images/Screenshot_1647642625.png' width="245">
+<img src='https://s10.gifyu.com/images/Screenshot_1647642667.png' width="245">
+<img src='https://s10.gifyu.com/images/Screenshot_1647642679.png' width="245">
 </div>
 
